@@ -1,0 +1,183 @@
+
+
+[P. POST][2021-12-39 19:13:39]: | k:method->edit | k:id->6 |
+
+[P. POST][2021-12-44 19:13:44]: | k:method->update | k:nom->Plato | k:val->4000 | k:stok->100 | k:estado->disponible | k:categoria->5 | k:descript->Plato para comida r |
+
+[P. POST][2021-12-44 19:13:44]: | k:method->edit | k:id->6 |
+
+[P. POST][2021-12-12 19:15:12]: | k:method->update | k:nom->Plato | k:val->4000 | k:stok->100 | k:estado->disponible | k:categoria->5 | k:descript->Plato para comida r |
+
+[P. POST][2021-12-12 19:15:12]: | k:method->edit | k:id->6 |
+
+[P. POST][2021-12-18 19:16:18]: | k:method->edit | k:id->6 |
+
+[P. POST][2021-12-21 19:16:21]: | k:method->update | k:nom->Plato | k:val->4000 | k:stok->100 | k:estado->disponible | k:categoria->5 | k:descript->Plato para comida ff |
+
+[P. POST][2021-12-21 19:16:21]: | k:method->edit | k:id->6 |
+
+[P. POST][2021-12-08 19:18:08]: | k:method->edit | k:id->6 |
+
+[P. POST][2021-12-14 19:18:14]: | k:method->update | k:nom->Plato | k:val->4000 | k:stok->100 | k:estado->disponible | k:categoria->5 | k:descript->Plato para comida rrr | k:id_prod->6 |
+
+[P. POST][2021-12-15 19:18:15]: | k:method->index |
+
+[P. POST][2021-12-28 19:18:28]: | k:method->index |
+
+[P. POST][2021-12-38 19:18:38]: | k:method->show | k:id->10 |
+
+[P. POST][2021-12-41 19:18:41]: | k:method->index |
+
+[P. POST][2021-12-47 19:18:47]: | k:method->edit | k:id->7 |
+
+[P. POST][2021-12-51 19:18:51]: | k:method->update | k:nom->Huesos | k:val->20000 | k:stok->100 | k:estado->disponible | k:categoria->1 | k:descript->Alimento para perro | k:id_prod->7 |
+
+[P. POST][2021-12-51 19:18:51]: | k:method->index |
+
+[P. POST][2021-12-21 19:20:21]: | k:method->show | k:id->10 |
+
+[P. POST][2021-12-22 19:22:22]: | k:method->index |
+
+[P. POST][2021-12-24 19:22:24]: | k:method->destroy | k:id->10 |
+
+[P. POST][2021-12-25 19:22:25]: | k:method->index |
+
+[P. POST][2021-12-29 19:22:29]: | k:method->show | k:id->7 |
+
+[P. POST][2021-12-33 19:22:33]: | k:method->index |
+
+[P. POST][2021-12-41 19:22:41]: | k:method->show | k:id->7 |
+
+[P. POST][2021-12-47 19:25:47]: | k:method->show | k:id->7 |
+
+[P. POST][2021-12-54 19:26:54]: | k:method->index |
+
+[P. POST][2021-12-36 19:45:36]: | k:method->index |
+
+[P. POST][2021-12-41 19:45:41]: | k:method->show | k:id->1 |
+
+[P. POST][2021-12-19 19:52:19]: | k:method->index |
+
+[P. POST][2021-12-24 19:52:24]: | k:method->edit | k:id->3 |
+
+[P. POST][2021-12-29 19:52:29]: | k:method->update | k:nom->Collar 1 | k:val->20000 | k:stok->4 | k:estado->agotado | k:categoria->3 | k:descript->Correas para perro | k:id_prod->3 |
+
+[P. POST][2021-12-29 19:52:29]: | k:method->index |
+
+[P. POST][2021-12-38 19:52:38]: | k:method->show | k:id->3 |
+
+[P. POST][2021-12-46 19:52:46]: | k:method->edit | k:id->3 |
+
+[P. POST][2021-12-51 19:52:51]: | k:method->update | k:nom->Collar 2 | k:val->20000 | k:stok->0 | k:estado->agotado | k:categoria->3 | k:descript->Correas para perro | k:id_prod->3 |
+
+[P. POST][2021-12-51 19:52:51]: | k:method->index |
+
+[P. POST][2021-12-56 19:53:56]: | k:method->edit | k:id->3 |
+
+[P. POST][2021-12-00 19:54:00]: | k:method->update | k:nom->Collar 2 | k:val->20000 | k:stok->44 | k:estado->agotado | k:categoria->3 | k:descript->Correas para perro | k:id_prod->3 |
+
+[P. POST][2021-12-01 19:54:01]: | k:method->edit | k:id->3 |
+
+[P. POST][2021-12-20 19:55:20]: | k:method->index |
+
+[P. POST][2021-12-23 19:55:23]: | k:method->edit | k:id->3 |
+
+[P. POST][2021-12-28 19:55:28]: | k:method->update | k:nom->Collar 2 | k:val->20000 | k:stok->100 | k:estado->agotado | k:categoria->3 | k:descript->Correas para perro | k:id_prod->3 |
+
+[P. POST][2021-12-29 19:55:29]: | k:method->index |
+
+[P. POST][2021-12-55 20:07:55]: | k:method->show | k:id->1 |
+
+[P. POST][2021-12-19 20:09:19]: | k:method->index |
+
+[P. POST][2021-12-20 20:09:20]: | k:method->edit | k:id->3 |
+
+[P. POST][2021-12-25 20:09:25]: | k:method->update | k:nom->Collar 3 | k:val->20000 | k:stok->100 | k:estado->agotado | k:categoria->3 | k:descript->Correas para perro | k:id_prod->3 |
+
+[P. POST][2021-12-25 20:09:25]: | k:method->index |
+
+[P. GET][2021-12-11 22:35:11]: | k:url->apiProducto | k:x->1 |
+
+[P. GET][2021-12-34 22:35:34]: | k:url->apiProducto | k:method->index |
+
+[P. GET][2021-12-46 22:35:46]: | k:url->apiProducto | k:method->index |
+
+[P. GET][2021-12-47 22:35:47]: | k:url->apiProducto | k:method->index |
+
+[P. GET][2021-12-01 22:36:01]: | k:url->apiProducto | k:method->index |
+
+[P. GET][2021-12-48 22:37:48]: | k:url->apiProducto | k:method->index |
+
+[P. GET][2021-12-53 22:37:53]: | k:url->apiProducto | k:method->index |
+
+[P. GET][2021-12-54 22:37:54]: | k:url->apiProducto | k:method->index |
+
+[P. GET][2021-12-55 22:37:55]: | k:url->apiProducto | k:method->index |
+
+[P. POST][2021-12-05 22:38:05]: | k:method->index |
+
+[P. GET][2021-12-05 22:38:05]: | k:url->apiProducto | k:method->index |
+
+[P. POST][2021-12-28 22:38:28]: | k:method->index |
+
+[P. GET][2021-12-28 22:38:28]: | k:url->apiProducto | k:method->index |
+
+[P. POST][2021-12-29 22:38:29]: | k:method->index |
+
+[P. GET][2021-12-29 22:38:29]: | k:url->apiProducto | k:method->index |
+
+[P. POST][2021-12-30 22:38:30]: | k:method->index |
+
+[P. GET][2021-12-30 22:38:30]: | k:url->apiProducto | k:method->index |
+
+[P. POST][2021-12-31 22:38:31]: | k:method->index |
+
+[P. GET][2021-12-31 22:38:31]: | k:url->apiProducto | k:method->index |
+
+[P. POST][2021-12-32 22:38:32]: | k:method->index |
+
+[P. GET][2021-12-32 22:38:32]: | k:url->apiProducto | k:method->index |
+
+[P. POST][2021-12-32 22:38:32]: | k:method->index |
+
+[P. GET][2021-12-32 22:38:32]: | k:url->apiProducto | k:method->index |
+
+[P. POST][2021-12-51 12:45:51]: | k:method->index |
+
+[P. POST][2021-12-07 12:48:07]: | k:method->edit | k:id->3 |
+
+[P. POST][2021-12-29 12:48:29]: | k:method->update | k:nom->Alimento | k:val->20000 | k:stok->100 | k:estado->disponible | k:categoria->1 | k:descript->Concentrado para gato | k:id_prod->3 |
+
+[P. POST][2021-12-29 12:48:29]: | k:method->index |
+
+[P. POST][2021-12-34 12:48:34]: | k:method->destroy | k:id->3 |
+
+[P. POST][2021-12-34 12:48:34]: | k:method->index |
+
+[P. POST][2021-12-54 12:49:54]: | k:method->edit | k:id->1 |
+
+[P. POST][2021-12-00 12:50:00]: | k:method->update | k:nom->Al | k:val->20000 | k:stok->100 | k:estado->disponible | k:categoria->3 | k:descript->Concentrado para gato | k:id_prod->1 |
+
+[P. POST][2021-12-00 12:50:00]: | k:method->index |
+
+[P. POST][2021-12-18 13:18:18]: | k:method->create |
+
+[P. POST][2021-12-33 13:18:33]: | k:method->store | k:nom->Prueba | k:val->2000 | k:stok->100 | k:estado->disponible | k:categoria->1 | k:descript->Producto |
+
+[P. POST][2021-12-33 13:18:33]: | k:method->index |
+
+[P. POST][2021-12-43 13:18:43]: | k:method->show | k:id->7 |
+
+[P. POST][2021-12-47 13:18:47]: | k:method->index |
+
+[P. POST][2021-12-51 13:18:51]: | k:method->destroy | k:id->7 |
+
+[P. POST][2021-12-51 13:18:51]: | k:method->index |
+
+[P. POST][2021-12-54 13:18:54]: | k:method->show | k:id->6 |
+
+[P. POST][2021-12-58 13:18:58]: | k:method->edit | k:id->6 |
+
+[P. POST][2021-12-03 13:19:03]: | k:method->update | k:nom->Editar | k:val->2000 | k:stok->100 | k:estado->disponible | k:categoria->1 | k:descript->Decript | k:id_prod->6 |
+
+[P. POST][2021-12-04 13:19:04]: | k:method->index |

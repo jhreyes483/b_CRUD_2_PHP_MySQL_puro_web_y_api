@@ -1,0 +1,74 @@
+﻿<title>PRUEBA LAIKA</title>
+
+
+
+
+<header class="masthead">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-8 mx-auto">
+        <?php
+        if (isset($_SESSION['msg'])) {
+        ?>
+          <div class="alert alert-<?= $_SESSION['color'] ?> alert-dismissible fade show" role="alert">
+            <?= $_SESSION['msg'] ?>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+        <?php
+          unset($_SESSION['msg'], $_SESSION['color']);
+        }
+        ?>
+      </div>
+    </div>
+
+    <div class="masthead-heading text-uppercase">CRUD 2</div>
+
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+
+          <div class="wrapper">
+            <form class="form-signin" method="post">
+              <h2 class="form-signin-heading text-dark">Iniciar Sesion</h2>
+
+              <input type="text" class="form-control mt-3" name="email" placeholder="Correo" required />
+              <input type="password" class="form-control my-3" name="password" placeholder="Contraseña" required />
+              <label class="checkbox text-dark mt-3 ml-5">
+                <a href="" class="text-decoration-none text-dark ">¿Olvidaste la contraseña?</a>
+              </label>
+              <input class="btn btn-lg btn-primary btn-block mt-3" type="submit" name="login" value="Inicia sesion" /></button>
+              <a class="btn btn-lg btn-secondary btn-block col-md-12" href="<?= BASE_URL . 'index/registrar' ?>">Registrar</a>
+              <a href="javascript:;" onclick="credenciales();">Ver credenciales</a>
+            </form>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" data-toggle="modal" data-target="#exampleModalCenter">Iniciar Sesion</a>
+  </div>
+</header>
+<!-- Services-->
+<section class="page-section" id="services">
+  <div class="container">
+
+
+    <script>
+      function credenciales() {
+        alert("Vendedor \n Correo crud2@gmial.com \n Contraseña:  Laika12345 \n \nTambien te puedes reguistrar");
+      }
+    </script>
+
+</section>

@@ -1,0 +1,74 @@
+
+[2021-12-26 10:00:52] [E_WARNING: Undefined variable $sql] [IN FILE C:\xampp\htdocs\crud-laika\_models\userModel.php] [LINE 66]
+[2021-12-26 10:00:52] [E_ERROR: Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\crud-laika\_models\mysql.php:27
+Stack trace:
+#0 C:\xampp\htdocs\crud-laika\_models\mysql.php(27): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\crud-laika\_models\userModel.php(66): c_SQL->m_ejecuta(NULL)
+#2 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(40): SQL->m_update(2, Array)
+#3 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(11): indexController->login()
+#4 C:\xampp\htdocs\crud-laika\application\Bootstrap.php(31): indexController->index()
+#5 C:\xampp\htdocs\crud-laika\index.php(32): c_navegacion::run(Object(Request))
+#6 {main}
+  thrown] [IN FILE C:\xampp\htdocs\crud-laika\_models\mysql.php] [LINE 27]
+[2021-12-26 10:01:35] [E_WARNING: Undefined variable $sql] [IN FILE C:\xampp\htdocs\crud-laika\_models\userModel.php] [LINE 67]
+[2021-12-26 10:01:35] [E_ERROR: Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\crud-laika\_models\mysql.php:27
+Stack trace:
+#0 C:\xampp\htdocs\crud-laika\_models\mysql.php(27): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\crud-laika\_models\userModel.php(67): c_SQL->m_ejecuta(NULL)
+#2 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(40): SQL->m_update(2, Array)
+#3 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(11): indexController->login()
+#4 C:\xampp\htdocs\crud-laika\application\Bootstrap.php(31): indexController->index()
+#5 C:\xampp\htdocs\crud-laika\index.php(32): c_navegacion::run(Object(Request))
+#6 {main}
+  thrown] [IN FILE C:\xampp\htdocs\crud-laika\_models\mysql.php] [LINE 27]
+[2021-12-26 10:01:51] [E_WARNING: Undefined variable $sql] [IN FILE C:\xampp\htdocs\crud-laika\_models\userModel.php] [LINE 67]
+[2021-12-26 10:01:51] [E_ERROR: Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\crud-laika\_models\mysql.php:27
+Stack trace:
+#0 C:\xampp\htdocs\crud-laika\_models\mysql.php(27): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\crud-laika\_models\userModel.php(67): c_SQL->m_ejecuta(NULL)
+#2 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(40): SQL->m_update(2, Array)
+#3 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(11): indexController->login()
+#4 C:\xampp\htdocs\crud-laika\application\Bootstrap.php(31): indexController->index()
+#5 C:\xampp\htdocs\crud-laika\index.php(32): c_navegacion::run(Object(Request))
+#6 {main}
+  thrown] [IN FILE C:\xampp\htdocs\crud-laika\_models\mysql.php] [LINE 27]
+[2021-12-26 10:04:23] [E_ERROR: Uncaught Error: Class "c_encrpta" not found in C:\xampp\htdocs\crud-laika\_controllers\indexController.php:40
+Stack trace:
+#0 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(11): indexController->login()
+#1 C:\xampp\htdocs\crud-laika\application\Bootstrap.php(31): indexController->index()
+#2 C:\xampp\htdocs\crud-laika\index.php(32): c_navegacion::run(Object(Request))
+#3 {main}
+  thrown] [IN FILE C:\xampp\htdocs\crud-laika\_controllers\indexController.php] [LINE 40]
+[2021-12-26 10:04:32] [E_ERROR: Uncaught Error: Class "c_encipta" not found in C:\xampp\htdocs\crud-laika\_controllers\indexController.php:40
+Stack trace:
+#0 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(11): indexController->login()
+#1 C:\xampp\htdocs\crud-laika\application\Bootstrap.php(31): indexController->index()
+#2 C:\xampp\htdocs\crud-laika\index.php(32): c_navegacion::run(Object(Request))
+#3 {main}
+  thrown] [IN FILE C:\xampp\htdocs\crud-laika\_controllers\indexController.php] [LINE 40]
+[2021-12-26 10:04:44] [E_WARNING: Undefined variable $sql] [IN FILE C:\xampp\htdocs\crud-laika\_models\userModel.php] [LINE 67]
+[2021-12-26 10:04:44] [E_ERROR: Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\crud-laika\_models\mysql.php:27
+Stack trace:
+#0 C:\xampp\htdocs\crud-laika\_models\mysql.php(27): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\crud-laika\_models\userModel.php(67): c_SQL->m_ejecuta(NULL)
+#2 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(40): SQL->m_update(2, Array)
+#3 C:\xampp\htdocs\crud-laika\_controllers\indexController.php(11): indexController->login()
+#4 C:\xampp\htdocs\crud-laika\application\Bootstrap.php(31): indexController->index()
+#5 C:\xampp\htdocs\crud-laika\index.php(32): c_navegacion::run(Object(Request))
+#6 {main}
+  thrown] [IN FILE C:\xampp\htdocs\crud-laika\_models\mysql.php] [LINE 27]
+[2021-12-26 13:04:16] [E_WARNING: Undefined variable $di] [IN FILE C:\xampp\htdocs\CRUD-2\_controllers\productoController.php] [LINE 111]
+[2021-12-26 13:11:28] [E_ERROR: Uncaught TypeError: Controller::m_verifica_result(): Argument #1 ($a) must be of type array, null given, called in C:\xampp\htdocs\CRUD-2\_controllers\productoController.php on line 33 and defined in C:\xampp\htdocs\CRUD-2\application\Controller.php:47
+Stack trace:
+#0 C:\xampp\htdocs\CRUD-2\_controllers\productoController.php(33): Controller->m_verifica_result(NULL, 'No hay porducto...')
+#1 C:\xampp\htdocs\CRUD-2\application\Bootstrap.php(31): productoController->index()
+#2 C:\xampp\htdocs\CRUD-2\index.php(32): c_navegacion::run(Object(Request))
+#3 {main}
+  thrown] [IN FILE C:\xampp\htdocs\CRUD-2\application\Controller.php] [LINE 47]
+[2021-12-26 13:12:33] [E_ERROR: Uncaught TypeError: Controller::m_verifica_result(): Argument #1 ($a) must be of type array, null given, called in C:\xampp\htdocs\CRUD-2\_controllers\productoController.php on line 33 and defined in C:\xampp\htdocs\CRUD-2\application\Controller.php:47
+Stack trace:
+#0 C:\xampp\htdocs\CRUD-2\_controllers\productoController.php(33): Controller->m_verifica_result(NULL, 'No hay porducto...')
+#1 C:\xampp\htdocs\CRUD-2\application\Bootstrap.php(31): productoController->index()
+#2 C:\xampp\htdocs\CRUD-2\index.php(32): c_navegacion::run(Object(Request))
+#3 {main}
+  thrown] [IN FILE C:\xampp\htdocs\CRUD-2\application\Controller.php] [LINE 47]

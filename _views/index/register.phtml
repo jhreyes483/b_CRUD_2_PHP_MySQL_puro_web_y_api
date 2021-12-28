@@ -1,0 +1,35 @@
+<body id="page-top">
+
+    <header class="masthead">
+        <div class="container">
+            <div class="card col-md-6 mx-auto">
+                <div class="card-header bg-dark">
+                    <label for="" class="lead">DATOS FORMULARIO</label>
+                </div>
+                <div class="card-body">
+                    <form action="<?= BASE_URL . 'index/store' ?>" method="POST" enctype="multipart/form-data">
+
+                        <div class="form-group">
+                            <label for="" class="text-dark">Nombres</label>
+                            <input class="form-control" name="name" type="text" name="nombre">
+                        </div>
+                        <div class="form-group">
+                            <label for="" class="text-dark">Correo</label>
+                            <input class="form-control" name="email" type="email" name="nombre">
+                        </div>
+                        <div class="form-group">
+                            <label for="" class="text-dark">Contraseña</label>
+                            <input class="form-control" name="password" type="password" name="nombre">
+                        </div>
+                        <div class="text-center">
+                            <input type="submit" class=" btn btn-success px-5" name="registrarusuario" value="Registrar usuario">
+                        </div>
+
+                </div>
+                </form>
+            </div>
+        </div>
+        </div>
+
+
+        </html>
